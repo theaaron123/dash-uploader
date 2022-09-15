@@ -10,8 +10,6 @@ import Flow from '@flowjs/flow.js';
 import Button from './Button.react.js';
 import ProgressBar from './ProgressBar.react.js'
 import PropTypes from 'prop-types';
-import './progressbar.css';
-import './button.css';
 import './uploader.css';
 
 
