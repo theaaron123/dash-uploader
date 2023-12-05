@@ -30,6 +30,7 @@ setup(
     extras_require={
         "dev": [
             "pyyaml~=5.3.1",  # building with dash-generate-components
+            "packaging>22"
         ]
     },
     classifiers=[
